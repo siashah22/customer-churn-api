@@ -46,6 +46,4 @@ https://customer-churn-api-7iwp.onrender.com/docs
   "prediction": "No",
   "probability": 0.0000043
 }
----
 
-## 🏗️ Project Structure
